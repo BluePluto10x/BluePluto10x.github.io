@@ -1,0 +1,20 @@
+---
+title: Desktop Build
+date: 2024-12-08 19:00:00 +0800
+categories: [Misc, Technology]
+pin: true
+description: Building a Desktop, a Right of Passage
+toc: true
+---
+
+## Project Document
+[Project PDF](/assets/pdf/desktop_build.pdf)
+
+## Media
+
+<!-- Parts Photo -->
+![Desktop View](/assets/img/desktop_parts.JPEG){: width="972" height="589" .w-75 .normal}
+
+<!-- Final Photo -->
+![Desktop View](/assets/img/desktop_final.JPEG){: width="972" height="589" .w-75 .normal}
+

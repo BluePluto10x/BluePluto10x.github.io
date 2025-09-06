@@ -1,0 +1,14 @@
+---
+title: Goethe B1 Exam Results
+date: 2025-06-20 19:00:00 +0800
+categories: [Misc, Certifications]
+pin: true
+description: More to come !
+toc: true
+---
+
+## Embedded PDF
+
+<iframe src="/assets/pdf/goethe_b1_zertifikate.pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="/assets/pdf/goethe_b1_zertifikate.pdf">Download the PDF</a>.</p>
+</iframe>
