@@ -1,6 +1,6 @@
 ---
 title: Volcano Summits
-date: 2025-04-29 19:00:00 +0800
+date: 2024-08-01 19:00:00 +0800
 categories: [Misc, Physical]
 pin: true
 description: Challenge to Climb all 5 WA Volcanos !
