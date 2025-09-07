@@ -1,0 +1,21 @@
+---
+title: Volcano Summits
+date: 2025-04-29 19:00:00 +0800
+categories: [Misc, Physical]
+pin: true
+description: Challenge to Climb all 5 WA Volcanos !
+toc: true
+---
+
+## Media
+
+![Desktop View](/assets/img/volcano_adams.JPEG){: width="972" height="589" .w-75 .normal}
+
+![Desktop View](/assets/img/volcano_baker.JPEG){: width="972" height="589" .w-75 .normal}
+
+![Desktop View](/assets/img/volcano_helens.JPEG){: width="972" height="589" .w-75 .normal}
+
+![Desktop View](/assets/img/volcano_rainier.JPEG){: width="972" height="589" .w-75 .normal}
+
+![Desktop View](/assets/img/volcano_glacier.JPEG){: width="972" height="589" .w-75 .normal}
+
