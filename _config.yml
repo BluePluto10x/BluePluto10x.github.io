@@ -16,7 +16,7 @@ timezone: pt
 
 title: Project Blog Robin Ahlers # the main title
 
-tagline: A public endpoint to share things I am passionate about # it will display as the subtitle
+tagline: Public Endpoint to Share Projects and Ideas # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
