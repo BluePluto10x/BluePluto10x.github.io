@@ -1,0 +1,14 @@
+---
+title: Software Best Practices
+date: 2024-08-30 19:00:00 +0800
+categories: [Kuiper, Customer Terminal]
+pin: true
+description: Personal Notes on Best Practices
+toc: true
+---
+
+## Embedded PDF
+
+<iframe src="/assets/pdf/software_best_practices.pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="/assets/pdf/software_best_practices.pdf">Download the PDF</a>.</p>
+</iframe>

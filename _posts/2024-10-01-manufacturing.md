@@ -1,6 +1,6 @@
 ---
 title: Kuiper Manufacturing Notes
-date: 2025-09-01 19:00:00 +0800
+date: 2024-10-01 19:00:00 +0800
 categories: [Kuiper, Customer Terminal]
 pin: true
 description: Kuiper Manufacturing Team Notes
